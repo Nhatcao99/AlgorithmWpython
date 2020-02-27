@@ -16,3 +16,4 @@ def search(self, nums: List[int], target: int) -> int:
 
     n = len(nums)
     return BinSearch(nums, 0, n - 1, target)
+#
