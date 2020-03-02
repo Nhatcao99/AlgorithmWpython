@@ -8,4 +8,4 @@ def maxDepth(self, root: 'Node') -> int:
             depth = max(tmp, depth)
         return depth
 
-    return Depth(root, 0)
+    return Depth(root, 0) #
